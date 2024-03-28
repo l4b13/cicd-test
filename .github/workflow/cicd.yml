@@ -16,4 +16,4 @@ jobs:
         run: pip install flask pytest
 
       - name: Testing
-        run: python -m pytest
+        run: python3 -m pytest
